@@ -1,0 +1,109 @@
+body{
+    background-color: rgb(29, 25, 25);    
+}
+ul{
+    color: white;
+    font-size: 1.2em;
+}
+li{
+    color: white;
+    font-size: 1.2em;
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    color:rgb(255, 255, 255);
+    background-color:rgb(red, green, blue);
+    margin: 1em;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+    font-size: 2em;
+}
+
+h2{
+    color: white;
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body div div h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    color: black;
+}
+h4{
+    font-size: 2em;
+    font-family: 'Corben', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+}
+h5{
+    font-size: 2em;
+    font-family: 'Corben', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+}
+h6{
+    font-size: 2em;
+    font-family: 'Corben', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+}
+div{
+    text-align: center;
+    justify-content: center;
+}
+button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    border: 1px solid white;
+    transition: all 0.5s ease-in-out;
+}
+button{
+    padding: 10px 20px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    transition: all 0.2s ease-in-out;
+    margin-right: 20px;
+}
+.start-btn{
+    background-color: green;
+    font-family: 'Orbitron', sans-serif;
+}
+.pause-btn{
+    background-color: rgb(255, 0, 0);
+    font-family: 'Orbitron', sans-serif;
+}
+.stop-btn{
+    background-color: rgb(13, 92, 196);
+    font-family: 'Orbitron', sans-serif;
+}
+
+#watch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+    min-width: 90px;
+    border: 2px;
+}
+#caixa-numeros{
+    margin-left: auto;
+    margin-right: auto;
+    width: 340px;
+    background: rgb(112, 107, 107);
+    border-radius: 6px;
+    padding-left: 10px;
+
+}
+
+
